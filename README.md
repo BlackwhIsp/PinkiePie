@@ -1,2 +1,2 @@
 # PinkiePie
-Binary Analysis Tool for the manly men
+Binary Analysis Tool for the Fabulous.
